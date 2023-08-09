@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TimePickerDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize the background color of the dialog -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- Customize the color of the title text in the title bar -->
+        <item name="android:textColorPrimary">@android:color/black</item>
+        <!-- Customize the color of the clock's background -->
+        <item name="android:colorControlNormal">@android:color/darker_gray</item>
+    </style>
+</resources>
